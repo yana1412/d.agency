@@ -1,6 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+First off all you should install all dependecies from package.json. For this operation write:
+
+```bash
+npm i
+```
 
 First, run the development server:
 
